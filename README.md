@@ -17,7 +17,7 @@
 
 <a name="userstory"></a>
 ## UserStory
-undefined
+As a user I want a README.md file generated for my application so that I can spend more time working on the application itself instead of the README.md file.
 ---
 <a name="Installation"></a>
 ## Installation

@@ -64,7 +64,7 @@ const userPrompt = () =>
         },
         {
             type: "input",
-            name: "userStory",
+            name: "UserStory",
             message: "What is the user story for this application?",
 
         },
