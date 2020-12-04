@@ -1,40 +1,47 @@
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
-# Automatic README Generator
+# Project Name
 **Version 1.0.0**
 
 ## Description
-### This app is for making a README.md file by asking questions through the command-line. After answering the questions you are presented with a professional looking README.md file.
+### This is a description
 
 ### Table of Contents
 - [UserStory](#UserStory)
 - [Installation](#Installation)
 - [Test](#Test)
+- [Demonstration](#Demonstration)
 - [License](#License)
 - [Contributions](#contributions)
 - [Questions](#Questions)
 
 
+
 <a name="userstory"></a>
 ## UserStory
-As a user I want a README.md file generated for my application so that I can spend more time working on the application itself instead of the README.md file.
+this is a user story
 ---
 <a name="Installation"></a>
 ## Installation
 To install necessary dependencies, run the following command:
-> npm i -y. You will also need to download inquirer: npm i inquirer
+> npm i
 ---
 <a name="Test"></a>
 ## Test
-> None
+> none
 ---
+
+<a name="Demonstration"></a>
+## Demonstration
+[Demonstration Video](https://drive.google.com/file/d/1vblLFAp_VbRcDz8JiJf15FMDH1tnDelf/view?usp=sharing).
+
 <a name="License"></a>
 ## License
 This project is licensed under the MIT license
 ---
 <a name="contributions"></a>
 ## Contributions
-Contributions by Brett Winterstrom
+
 
 ---
 <a name="Questions"></a>
