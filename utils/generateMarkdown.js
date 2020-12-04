@@ -42,7 +42,9 @@ ${data.contributor}
 <a name="Questions"></a>
 ## Questions
 For more information or questions 
+
 Email me @ ${data.email}
+
 Git Hub User Name: ${data.github}
 ---
   `;
